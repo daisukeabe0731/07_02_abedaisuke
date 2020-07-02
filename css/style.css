@@ -1,0 +1,81 @@
+body{
+  background-color: white;
+}
+
+fieldset{
+  border: none;
+}
+
+.men{
+  display: inline-block;
+  text-decoration: none;
+  color: #289559;
+  width: 150px;
+  height: 150px;
+  line-height: 120px;
+  border-radius: 50%;
+  border: none;
+  text-align: center;
+  overflow: hidden;
+  font-weight: bold;
+  transition: .4s;
+  margin: 5px;
+  font-size: 20px;
+}
+.men:hover {
+  background: #d4edde;
+}
+
+.women{
+  display: inline-block;
+  text-decoration: none;
+  color: #ea8b55;
+  width: 150px;
+  height: 150px;
+  line-height: 120px;
+  border-radius: 50%;
+  border: none;
+  text-align: center;
+  overflow: hidden;
+  font-weight: bold;
+  transition: .4s;
+  margin: 5px;
+  font-size: 20px;
+}
+.women:hover {
+  background: #ffe6cf;
+}
+
+.menbox{
+  padding-top: 40px;
+  text-align: center;
+}
+.womenbox{
+  padding-top: 20px;
+  text-align: center;
+}
+legend{
+  font-size: 35px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+a{
+  text-decoration: none
+}
+.link_button{
+  text-align: center;
+  padding-top: 40px;
+}
+
+table{
+  font-size: 15px;
+  padding-top: 40px ;
+  text-align: center;
+}
+
+.ohayo{
+  font-size: 180px;
+  text-align: center;
+}
+
